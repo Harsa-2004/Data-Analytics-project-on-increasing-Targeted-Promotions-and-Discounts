@@ -43,7 +43,7 @@ This project aims to enhance retail marketing strategies by delivering personali
 **Programming Languages:** Python
 
 
-**Libraries:** Pandas, NumPy, Scikit-learn, Surprise, Streamlit, Matplotlib, Seaborn
+**Libraries:** Pandas, NumPy, Scikit-learn, Surprise, Matplotlib, Seaborn
 
 
 **Machine Learning Algorithms:** Random Forest Classifier,Gradient Boosting Regressor,Collaborative Filtering (User-Based and Item-Based)
